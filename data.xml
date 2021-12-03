@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<API3G>
+  <CompanyToken>22645C34-0644-46B1-A96D-8524D8E5B265</CompanyToken>
+  <Request>createToken</Request>
+  <Transaction>
+    <PaymentAmount>1000.00</PaymentAmount>
+    <PaymentCurrency>TZS</PaymentCurrency>
+    <CompanyRef>LODGEAPP</CompanyRef>
+    <RedirectURL>https://lodge.co.tz/login</RedirectURL>
+    <BackURL>https://lodge.co.tz/register</BackURL>
+    <DeclinedURL>https://lodge.co.tz</DeclinedURL>
+    <CompanyRefUnique>0</CompanyRefUnique>
+    <PTL>15</PTL>
+    <PTLtype>hours</PTLtype>
+    <DefaultPayment>MO</DefaultPayment>
+    <DefaultPaymentCountry>Tanzania</DefaultPaymentCountry>
+    <DefaultPaymentMNO>Tigo</DefaultPaymentMNO>
+    <customerFirstName>Zakaria</customerFirstName>
+    <customerLastName>Moshi</customerLastName>
+    <customerZip>0</customerZip>
+    <customerAddress>TZ</customerAddress>
+    <customerCity>DSM</customerCity>
+    <customerCountry>TZ</customerCountry>
+    <customerEmail>jifunzeweb@gmail.com</customerEmail>
+    <customerPhone>0755059683</customerPhone>
+  </Transaction>
+  <Services>
+    <Service>
+      <ServiceType>5525</ServiceType>
+      <ServiceDescription>Lodge App Subscription</ServiceDescription>
+      <ServiceDate>2021/12/03</ServiceDate>
+    </Service>
+  </Services>
+</API3G>

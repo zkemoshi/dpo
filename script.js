@@ -3,7 +3,7 @@ const URL = 'https://secure.3gdirectpay.com/API/v6/';
 
 const req_data_load = `<?xml version="1.0" encoding="utf-8"?>
   <API3G>
-  <CompanyToken>22645C34-0644-46B1-A96D-8524D8E5B265</CompanyToken>
+  <CompanyToken>7D2BE0A8-79B4-46B7-A17E-A69518AECDA5</CompanyToken>
   <Request>createToken</Request>
   <Transaction>
   <PaymentAmount>1000.00</PaymentAmount>
