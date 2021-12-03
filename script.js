@@ -53,7 +53,7 @@ async function postData() {
   });
 
   const data = await response.text();
-  console.log(data);
+  console.log(response);
 }
 
 btn.addEventListener('click', postData);
